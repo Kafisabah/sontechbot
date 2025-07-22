@@ -1,0 +1,1 @@
+# Bu dosya, 'ecommerce_integrations' klasörünün bir Python paketi olduğunu belirtir.

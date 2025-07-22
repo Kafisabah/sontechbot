@@ -1,0 +1,16 @@
+kivy
+kivymd
+kivy-garden.graph
+requests
+pyodbc
+pystray
+pillow
+pywin32
+winshell
+pandas
+openpyxl
+appdirs
+getmac
+nuitka
+zstandard
+ordered-set
